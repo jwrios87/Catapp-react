@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Catapp-react/static/css/main.a4d898af.chunk.css",
+    "main.js": "/Catapp-react/static/js/main.43d695d1.chunk.js",
+    "main.js.map": "/Catapp-react/static/js/main.43d695d1.chunk.js.map",
+    "runtime-main.js": "/Catapp-react/static/js/runtime-main.8ef3ce10.js",
+    "runtime-main.js.map": "/Catapp-react/static/js/runtime-main.8ef3ce10.js.map",
+    "static/js/2.13979605.chunk.js": "/Catapp-react/static/js/2.13979605.chunk.js",
+    "static/js/2.13979605.chunk.js.map": "/Catapp-react/static/js/2.13979605.chunk.js.map",
+    "static/js/3.543b49d3.chunk.js": "/Catapp-react/static/js/3.543b49d3.chunk.js",
+    "static/js/3.543b49d3.chunk.js.map": "/Catapp-react/static/js/3.543b49d3.chunk.js.map",
+    "index.html": "/Catapp-react/index.html",
+    "static/css/main.a4d898af.chunk.css.map": "/Catapp-react/static/css/main.a4d898af.chunk.css.map",
+    "static/js/2.13979605.chunk.js.LICENSE.txt": "/Catapp-react/static/js/2.13979605.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ef3ce10.js",
+    "static/js/2.13979605.chunk.js",
+    "static/css/main.a4d898af.chunk.css",
+    "static/js/main.43d695d1.chunk.js"
+  ]
+}
